@@ -1,0 +1,26 @@
+/// Homepage Styles File
+/// Here we import all the Styles files we need for our Homepage.
+/// 
+/// 
+
+#home-page {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.song-preview-card {
+  display: flex;
+}
+
+.song-preview-card__artist-and-time {
+  display: flex;
+}
+
+.song-preview-card__album-cover-and-info{
+  display: flex;
+}
+
+.song-preview-card__album-info-container{
+  display: flex;
+}
